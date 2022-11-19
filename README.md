@@ -1,4 +1,8 @@
-<h3 align="center">I'm a backend developer</h3>
+### Hi there, I'm Enes. :smile:
+
+## Backend & Frontend Developer
+
+<font color="purple">I love `<Javascript/>` </font>
 
 - 🔭 I’m currently working on **My personal website**
 
