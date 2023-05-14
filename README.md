@@ -1,4 +1,4 @@
-### Hi there, I'm Ensar. :smile:
+### Hi there, I'm Enes. :smile:
 
 ## Backend & Frontend Developer
 
